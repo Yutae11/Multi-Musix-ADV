@@ -14,38 +14,38 @@ module.exports = {
       .setAuthor({
         name: 'Im here to Help!',
         iconURL: 'https://cdn.discordapp.com/attachments/1175487983915376662/1175667506791325706/communication.png?ex=656c10b0&is=65599bb0&hm=e378f1b355a2401bcab504b08a0766001d6b7c090c91ce0a7a7a87c868feb955&', 
-        url: 'https://discord.gg/FUEHs7RCqz'
+        url: 'https://discord.com/invite/sbFJCnQzJz'
     })
      
-      .setDescription(`__**STATS :**__\n\n> **📊 Bot in servers:** ${serverCount}\n> **🟢 Bot Ping:** ${botPing}ms\n> **👑 Made By [GlaceYT](https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A)**\n\n__**COMMANDS :**__ `)
+      .setDescription(`__**STATS :**__\n\n> **📊 Bot in servers:** ${serverCount}\n> **🟢 Bot Ping:** ${botPing}ms\n> **👑 Made By [YUTA](https://discord.com/invite/sbFJCnQzJz)**\n\n__**COMMANDS :**__ `)
       .addFields(
       
         {
-          name: '▶️  Basic',
+          name: '<a:ActivityRank:1222504936298905670>  Basic',
           value: '`avatar`, `owner`, `support`, `invite`, `userinfo`',
           inline: true,
         },
        
         {
-          name: '▶️  Music',
+          name: '<a:music:1238858364553924720>  Music',
           value: '`play`, `stop`, `seek`,`volume`,`pause`,`resume`,`skip`,`remove`,`shuffle`,`queue`',
           inline: true,
         },
       
         {
-          name: '▶️  Fun',
+          name: '<:funwaa:1238857885442900031>  Fun',
           value: ' `ascii`, `joke`, `roll`',
           inline: true,
         },
       
         {
-          name: '▶️  Image',
+          name: '<:image:1238857617556639755>  Image',
           value: '`cat`, `dog`',
           inline: true,
         },
       
         {
-          name: '▶️  Anime',
+          name: '<:Gojosimp:1223872994103922728>  Anime',
           value: '`<prefix>animecommands for more info`',
           inline: true,
         },
@@ -60,18 +60,18 @@ module.exports = {
       .setImage(`https://cdn.discordapp.com/attachments/1113800537402527903/1236803979996958740/11.png?ex=6641e8b7&is=66409737&hm=96f69ba8bcde4ca44bf8713e22001e0bafad0335cfd1f57c439a34b4762f0e03&`);
 
     const button1 = new ButtonBuilder()
-      .setLabel('YouTube')
-      .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+      .setLabel('Instagram')
+      .setURL('https://www.instagram.com/yuta.xae?igsh=MTVzenNodGt3MmE5cw==')
       .setStyle(ButtonStyle.Link);
 
     const button2 = new ButtonBuilder()
       .setLabel('Discord')
-      .setURL('https://discord.gg/xQF9f9yUEM')
+      .setURL('https://discord.com/invite/sbFJCnQzJz')
       .setStyle(ButtonStyle.Link);
 
     const button3 = new ButtonBuilder()
       .setLabel('Code')
-      .setURL('https://github.com/GlaceYT')
+      .setURL('https://discord.com/invite/sbFJCnQzJz')
       .setStyle(ButtonStyle.Link);
       
     const row = new ActionRowBuilder()
