@@ -14,7 +14,7 @@ module.exports = {
         .setAuthor({
         name: 'User Info!',
         iconURL: 'https://cdn.discordapp.com/attachments/1140841446228897932/1144684108174348318/giphy_1.gif', 
-        url: 'https://discord.gg/FUEHs7RCqz'
+        url: 'https://discord.com/invite/sbFJCnQzJz'
     })
         .setThumbnail(user.avatarURL({ format: 'png', dynamic: true, size: 1024 }))
         .setDescription(`**Username**:  ${user.username}\n**Discriminator**:  ${user.discriminator}\n**ID**:  ${user.id}\n**Joined Discord**:  ${user.createdAt.toUTCString()}`)
@@ -27,7 +27,7 @@ module.exports = {
 
 /*
 
-   MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
+   MADE BY YUTA!! FEEL FREE TO USE ANY PART OF CODE
 
   ██████╗░████████╗██╗░░██╗           
   ██╔══██╗╚══██╔══╝╚██╗██╔╝          
@@ -39,9 +39,9 @@ module.exports = {
    FOR EMOJIS EITHER YOU CAN EDIT OR JOIN OUR DISCORD SERVER 
    SO WE ADD BOT TO OUR SERVER SO YOU GET ANIMATED EMOJIS.
 
-   DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-   YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+   DISCORD SERVER : https://discord.com/invite/sbFJCnQzJz
+   YOUTUBE : https://www.instagram.com/yuta.xae?igsh=MTVzenNodGt3MmE5cw==
 
    FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/c4kaW2sSbm ]
+   ## Contact    [ DISCORD SERVER :  https://discord.com/invite/sbFJCnQzJz ]
 */
