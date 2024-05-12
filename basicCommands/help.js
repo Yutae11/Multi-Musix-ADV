@@ -57,7 +57,7 @@ module.exports = {
         }
       )
       .setThumbnail(botUser.avatarURL({ dynamic: true, format: 'png', size: 1024 }))
-      .setImage(`https://cdn.discordapp.com/attachments/1113800537402527903/1236803979996958740/11.png?ex=6641e8b7&is=66409737&hm=96f69ba8bcde4ca44bf8713e22001e0bafad0335cfd1f57c439a34b4762f0e03&`);
+      .setImage(`https://cdn.discordapp.com/attachments/1235849726310748184/1239257691965231154/e95dfe483961da619dfeee7a3adc7da0.jpg?ex=6642442a&is=6640f2aa&hm=12dd90490f29924b2a4548f3e4e42ed8b8fc4b33c55a100d6f15e338837af065&`);
 
     const button1 = new ButtonBuilder()
       .setLabel('Instagram')
